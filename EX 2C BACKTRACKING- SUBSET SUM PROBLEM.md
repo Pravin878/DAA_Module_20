@@ -34,8 +34,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ```
 
 Program to implement Subset sum problem.
-Developed by: HARIHARAN A
-Register Number:  212222100012
+Developed by: Pravin kumar G
+Register Number:  212222230109
 
 def SubsetSum(a,i,sum,target,n):
     if i==n:
